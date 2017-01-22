@@ -46,7 +46,7 @@ cd ext-processor-find-new-user
 其他注意点：
 
 1. redis 访问会降低数据处理速度，应尽量减少 redis 读写;
-2. 请仔细参考 [ExtProcessor 数据预处理模块](https://www.sensorsdata.cn/manual/ext_processor.html) 中 `2.1 开发常见问题`
+2. 请仔细参考 [ExtProcessor 数据预处理模块](https://github.com/sensorsdata/ext-processor-sample) 中 `2.1 开发常见问题`
 
 ### 2.3 编译
 
